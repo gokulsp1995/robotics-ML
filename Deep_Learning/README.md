@@ -1,4 +1,4 @@
-# Deep Learning Projects 🧠🤖
+# Deep Learning Projects 
 This folder contains deep learning projects related to:
 - Neural Networks
 - Computer Vision
